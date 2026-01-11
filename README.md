@@ -11,5 +11,7 @@ In this repositories we have all the codes as well as the main report (the draft
 - Notebook files : main.ipynb is the core of the repositories. It contains the implementation and all the codes needed to do the report.
 
 ## How to run?
-Install the necessary library such as numpy, numba, matplotlib in order to run the codes.
-Run through all the cells of main.ipynb and (un)comment what is relevant for the current run 😁
+- Install the necessary library such as numpy, numba, matplotlib in order to run the codes.
+- Download the datasets at [MovieLens32M](https://files.grouplens.org/datasets/movielens/ml-32m.zip).
+- Put `movies.csv` and `ratings.csv` in the same folder as the repositories.    
+- Run through all the cells of main.ipynb and (un)comment what is relevant for the current run 😁
